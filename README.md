@@ -66,3 +66,5 @@ AWS resources enable scalable infrastructure based on application needs.
 Rapid Iterations:
 Streamlined CI/CD accelerates development cycles, allowing for faster iterations.
 This Jenkins CI/CD pipeline project on AWS optimizes the software delivery process, fostering collaboration, and ensuring the reliability and quality of deployed applications.
+
+Thank you, Happy coding, bye bye !
