@@ -1,5 +1,9 @@
 # Jenkins-CI-CD-Pipeline
 
+<img width="804" alt="image" src="https://github.com/abiagus/Jenkins-CI-CD-Pipeline/assets/111486295/2b61e161-def4-4b28-a06a-870f44439c77">
+
+
+
 ## Jenkins CI/CD Pipeline with SonarQube, Docker, GitHub Webhooks on AWS
 ## Overview
 This project implements a robust CI/CD pipeline using Jenkins on AWS, integrating essential tools such as SonarQube, Docker, and GitHub Webhooks. The goal is to automate the software development lifecycle, ensuring efficient and consistent delivery of high-quality code. The pipeline encompasses continuous integration, automated testing, code analysis with SonarQube, Docker containerization, and seamless deployment on AWS.
